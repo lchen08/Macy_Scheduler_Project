@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="doc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../../../apache-pivot-2.0.5/apache-pivot-2.0.5/doc" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
