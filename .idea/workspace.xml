@@ -15,20 +15,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="savetest.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/savetest.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11764">
-              <caret line="692" column="7" lean-forward="false" selection-start-line="692" selection-start-column="7" selection-end-line="692" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SchedulePageReader.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MacySchedule/SchedulePageReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2720">
+            <state relative-caret-position="2710">
               <caret line="162" column="16" lean-forward="false" selection-start-line="162" selection-start-column="16" selection-end-line="162" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -47,10 +37,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MacySchedule/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="582">
+            <state relative-caret-position="6188">
               <caret line="370" column="34" lean-forward="false" selection-start-line="370" selection-start-column="34" selection-end-line="370" selection-end-column="34" />
               <folding />
             </state>
@@ -77,10 +67,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainUI.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainUI.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MainUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="374">
               <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -160,7 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="345" />
     <option name="width" value="1400" />
     <option name="height" value="799" />
@@ -429,7 +419,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="146" y="-8" width="1542" height="1066" extended-state="7" />
+    <frame x="146" y="-8" width="1542" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -817,9 +807,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/savetest.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11764">
+        <state relative-caret-position="986">
           <caret line="692" column="7" lean-forward="false" selection-start-line="692" selection-start-column="7" selection-end-line="692" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MacySchedule/SchedulePageReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2710">
+          <caret line="162" column="16" lean-forward="false" selection-start-line="162" selection-start-column="16" selection-end-line="162" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -827,6 +827,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MacySchedule/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6188">
+          <caret line="370" column="34" lean-forward="false" selection-start-line="370" selection-start-column="34" selection-end-line="370" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -839,31 +847,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MacySchedule/SchedulePageReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2720">
-          <caret line="162" column="16" lean-forward="false" selection-start-line="162" selection-start-column="16" selection-end-line="162" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -875,11 +863,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MacySchedule/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/MainUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="582">
-          <caret line="370" column="34" lean-forward="false" selection-start-line="370" selection-start-column="34" selection-end-line="370" selection-end-column="34" />
-          <folding />
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
