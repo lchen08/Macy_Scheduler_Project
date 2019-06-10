@@ -1,4 +1,9 @@
-package MacySchedule;
+package MacySchedule.UnitTesting;
+
+import MacySchedule.Employee;
+import MacySchedule.SchedulePageReader;
+import MacySchedule.Time;
+import MacySchedule.WeekSchedule;
 
 import java.io.File;
 import java.io.FileNotFoundException;

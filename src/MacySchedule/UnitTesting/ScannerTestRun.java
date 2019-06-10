@@ -1,4 +1,4 @@
-package MacySchedule;
+package MacySchedule.UnitTesting;
 
 import java.io.File;
 import java.io.FileNotFoundException;
